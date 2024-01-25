@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 944d7188682498246869b6ba97fe3aa9, type: 3}
+  m_Name: Double Jump Invurability
+  m_EditorClassIdentifier: 
+  hardwareType: 3
+  hardwareIcon: {fileID: -1411928508, guid: e9e792b7bffcc3949a7ccb49b29de6f9, type: 3}
+  hardwareInGameName: Rocets boots
+  upgradeEffects:
+  - {fileID: 11400000, guid: a2cfd4ba2e139b94c9e2a00ca949020d, type: 2}

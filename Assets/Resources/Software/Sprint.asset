@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ad3a491f9cc6da45bd8a755ef9ea927, type: 3}
+  m_Name: Sprint
+  m_EditorClassIdentifier: 
+  softwareBlockSprite: {fileID: 0}
+  spriteColor: {r: 0.754717, g: 0.7157198, b: 0, a: 1}
+  softwareInGameName: Sprint
+  upgradeEffects:
+  - {fileID: 11400000, guid: fac997ee9a77b8547b518420606f3b65, type: 2}
+  reserchCost: 0
+  isReserched: 0
+  size: 3
+  shape_0_0: 0
+  shape_1_0: 0
+  shape_2_0: 0
+  shape_3_0: 0
+  shape_4_0: 0
+  shape_0_1: 1
+  shape_1_1: 1
+  shape_2_1: 1
+  shape_3_1: 0
+  shape_4_1: 0
+  shape_0_2: 0
+  shape_1_2: 0
+  shape_2_2: 0
+  shape_3_2: 0
+  shape_4_2: 0
+  shape_0_3: 0
+  shape_1_3: 0
+  shape_2_3: 0
+  shape_3_3: 0
+  shape_4_3: 0
+  shape_0_4: 0
+  shape_1_4: 0
+  shape_2_4: 0
+  shape_3_4: 0
+  shape_4_4: 0

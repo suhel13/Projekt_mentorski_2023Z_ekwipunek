@@ -1,0 +1,497 @@
+fileFormatVersion: 2
+guid: 3ae1da2b042160d42aeed7da6e91a20a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 66.666664
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: head
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 924
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d192d411265a997428b54cc3b80d724e
+      internalID: 1743419698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardwareGreen
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 846
+        width: 197
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda49e03c2cb61941941fa4e42baa3fc
+      internalID: 2080796147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware_text
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 920
+        width: 152
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18c82335e9508c4ea18824ba29c19b4
+      internalID: 10749830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: software_Green
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 847
+        width: 197
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf40e5d1b28325479425b2d50b787b1
+      internalID: 528287395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: software text
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 921
+        width: 156
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb2af9fe83ffc741b792666e6a45d28
+      internalID: 1835657106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chest
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 843
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7407e654c57721c469f0f8d5e7da9b9b
+      internalID: 1645550551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hand
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 751
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def523426d4bbae489d0740c87b2757d
+      internalID: -847180361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hardware_blue
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 773
+        width: 197
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b68c2520a1f864389b11a4894d57f4
+      internalID: -1544249737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: software_blue
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 775
+        width: 197
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ac5ed6f8e6f08439c7743e2aa5c80d
+      internalID: -1758846466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leg
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 679
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1282164e587189547abc7fb71b9818bb
+      internalID: 1149722194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: All_text
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 607
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1155bba26d8fa4481d796c0af5e6cb
+      internalID: -1069637465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: circle_Blue
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 494
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b251cb84f7334549998759282b76750
+      internalID: 1586299233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circle_Green
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 494
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a24bb810163984090edacc03014a6e
+      internalID: 170943116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_blue
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 411
+        width: 197
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b527fac8799db574a8c4c17d40130556
+      internalID: -1125762306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Play_Gren
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 341
+        width: 197
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bd9ee6d20f4bc42934a27deb803eda
+      internalID: 1686522378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: play text
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 288
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e38150c43b97ad4099441cc76ccc667
+      internalID: 694708714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d27759d147c98ee469b48aeeb0c9494e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      All_text: -1069637465
+      Circle_Green: 170943116
+      Hand: -847180361
+      Leg: 1149722194
+      Play_Gren: 1686522378
+      Play_blue: -1125762306
+      chest: 1645550551
+      circle_Blue: 1586299233
+      hardwareGreen: 2080796147
+      hardware_blue: -1544249737
+      hardware_text: 10749830
+      head: 1743419698
+      play text: 694708714
+      prawieikony_podzielone_0: -1121433779
+      prawieikony_podzielone_1: 878918334
+      prawieikony_podzielone_10: 71556467
+      prawieikony_podzielone_13: 1906254621
+      prawieikony_podzielone_14: 24819609
+      prawieikony_podzielone_15: -1658582990
+      prawieikony_podzielone_16: -1308824188
+      prawieikony_podzielone_17: 2004511960
+      prawieikony_podzielone_18: 2130054050
+      prawieikony_podzielone_19: -2115865833
+      prawieikony_podzielone_2: 1803905121
+      prawieikony_podzielone_21: -863559407
+      prawieikony_podzielone_22: -322208778
+      prawieikony_podzielone_23: -6285923
+      prawieikony_podzielone_26: 28407951
+      prawieikony_podzielone_27: -932478080
+      prawieikony_podzielone_30: -1273586781
+      prawieikony_podzielone_31: -444793685
+      prawieikony_podzielone_33: 1790877528
+      prawieikony_podzielone_34: 184038129
+      prawieikony_podzielone_36: 853365439
+      prawieikony_podzielone_37: 494806614
+      prawieikony_podzielone_38: 394500924
+      prawieikony_podzielone_39: -2109793567
+      prawieikony_podzielone_4: -340720491
+      prawieikony_podzielone_44: -2096281396
+      prawieikony_podzielone_45: -993424132
+      prawieikony_podzielone_46: 1116797883
+      prawieikony_podzielone_5: -74822093
+      prawieikony_podzielone_6: -524848385
+      prawieikony_podzielone_7: -1561142963
+      prawieikony_podzielone_8: -326719956
+      prawieikony_podzielone_9: -1657882627
+      software text: 1835657106
+      software_Green: 528287395
+      software_blue: -1758846466
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
